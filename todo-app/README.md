@@ -1,6 +1,6 @@
 # todo-app
 
-> a todo app using Vue.js
+> A Vue.js project
 
 ## Build Setup
 
@@ -25,6 +25,3 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-
-https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2#toc-conclusion
