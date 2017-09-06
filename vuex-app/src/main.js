@@ -10,6 +10,7 @@ import uuid from 'uuid'
 Vue.use(Vuex)
 Vue.config.productionTip = false
 
+//keep in mind actions for async operations
 const store = new Vuex.Store({
   state: {
     todos: [{
