@@ -37,9 +37,12 @@ export default {
     }
   },
   methods: {
-    addTodo(title) {
+    addTodo(todo) {
+      console.log(todo);
+
       this.todos.push({
-        title,
+        title: todo.title,
+        project: todo.project,
         done: false,
       })
     }
